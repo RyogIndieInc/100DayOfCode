@@ -5,3 +5,5 @@ Mi viaje para convertirme en desarrollador web full-stack y programador Python.
 - Archivo: `greet.py`
 - Archivo: `helloworld.py`
 - Aprendí: Variable, string y salida.
+
+## Día 2: ¡Calculadora en Python lista! 🧮 Aprendí operadores aritméticos y de comparación. Código en GitHub.
