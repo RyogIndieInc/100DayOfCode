@@ -1,0 +1,7 @@
+# 100DaysOfCode
+Mi viaje para convertirme en desarrollador web full-stack y programador Python.
+
+## Día 1: Reto ¡Saluda a todos! con Python de HackerRank y programa de saludo en Python con VS Code
+- Archivo: `greet.py`
+- Archivo: `helloworld.py`
+- Aprendí: Variable, string y salida.
