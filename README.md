@@ -58,3 +58,8 @@ Mi viaje para convertirme en desarrollador web full-stack y programador Python.
 
 -- Archivo: `form.html`
 -- Aprendí: img, a y form with its attributes
+
+## Día 10: ¡Estilicé mi formulario con CSS! 🎨 Centré el título y añadí márgenes.
+
+-- Archivo: `stylized_form.html`
+-- Aprendí: margin, padding, text-align, width y height
