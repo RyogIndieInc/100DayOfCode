@@ -38,18 +38,23 @@ Mi viaje para convertirme en desarrollador web full-stack y programador Python.
 
 ## Día 6: ¡Empecé con bucles for en Python! 🔄 Imprimí números y saludos desde una lista.
 
--- Archivo: `numbers`
--- Archivo: `greet_list`
+-- Archivo: `numbers.py`
+-- Archivo: `greet_list.py`
 -- Aprendí: Bucle for
 
 ## Día 7: ¡Bucles while en Python! 🔄 Hice un programa que pide números hasta salir.
 
--- Archivo: `input_while`
--- Archivo: `numbers_while`
+-- Archivo: `input_while.py`
+-- Archivo: `numbers_while.py`
 -- Aprendí: Bucle for
 
-## Día 8: ¡Listas en Python! 📋 Creé una lista de colores y otra con nombres del usuario
+## Día 8: ¡Listas en Python! 📋 Creé una lista de colores y otra con nombres del usuario.
 
--- Archivo: `colors`
--- Archivo: `names_list`
+-- Archivo: `colors.py`
+-- Archivo: `names_list.py`
 -- Aprendí: Bucle for
+
+## Día 9: ¡Creé un formulario HTML! 📝 Añadí una imagen y un enlace a mi GitHub.
+
+-- Archivo: `form.html`
+-- Aprendí: img, a y form with its attributes
